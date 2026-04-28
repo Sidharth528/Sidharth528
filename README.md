@@ -1,41 +1,43 @@
 👋 Hi, I'm Sidharth A S!
-
-
-🎨 UI/UX Designer | 💻 Web Developer | 🎓 Final-Year B.E. CSE Student
+💻 Software Engineer | 🌐 Full‑Stack Developer
 
 🚀 About Me
-
-🌟 Passionate about crafting intuitive user experiences and functional web interfaces.
-🎧 Music lover, 🏸 badminton and ⚽ football enthusiast, and creative designer at heart.
-💡 Currently working on 'Unmute', a music app 🎵.
-🛠️ Recently designed 'Flinch', a SaaS web tool for analytics 📊 and finance 💵.
+🌟 Software Engineer passionate about building scalable, secure, and efficient web applications.
+💡 Experienced in developing full‑stack solutions using modern Microsoft and frontend technologies.
+🔧 Strong focus on clean architecture, backend APIs, and seamless frontend integration.
+🎯 Interested in cloud‑native applications and containerized deployments.
 
 💼 Experience
-
-🎨 UI/UX Intern at Cognifyz Technologie |
-🌐 Designed a e-commerce web application
-
-🎨 UI/UX Intern at Mind Strom Techno innovation |
-🏠 Crafted an e-commerce website for swimwear
-
-👨‍💻 Web Development Intern at Let’s GrowMore |
-⚙️ Built a multiple web projects like calculator, e-commerce, to-do app, online music player etc.. using React.js
+💻 Software Engineer at Cognizant
+🚀 Developing enterprise‑grade web applications using ASP.NET Core, Angular, and SQL Server.
+⚙️ Working on backend API development, frontend integration, and database design.
+☁️ Gaining hands‑on experience with Docker and Azure Cloud for modern application deployment.
 
 🛠️ Skills
+Backend
 
-Design: Figma 🎨 | Adobe Photoshop ✏️ | Adobe illustrator ✏️
+ASP.NET Core Web API
+C#
+SQL Server
 
-Development: HTML5 🌐 | CSS3 🎨 | JavaScript ⚛️ | React.js ⚛️
+Frontend
 
-Tools: GitHub 🐙 | VS Code 💻 | Git
+Angular
+HTML5 | CSS3 | JavaScript
+
+Cloud & DevOps
+
+Docker
+Microsoft Azure
+
+Tools
+
+Git | GitHub
+Visual Studio | VS Code
+
 
 🌱 Currently
+📚 Expanding knowledge in cloud architecture, container orchestration, and enterprise application design.
 
-📚 Learning advanced front-end & back-end frameworks 🖼️
-
-📫 Connect with Me - 
-
-🌐 Portfolio Website |
-💼 LinkedIn |
-📸 Behance
-
+📫 Connect with Me - sidharthas528@gmail.com
+💼 LinkedIn - https://www.linkedin.com/in/sidharth-a-s-20378b22a/
